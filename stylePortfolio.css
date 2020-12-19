@@ -48,14 +48,14 @@ a:hover {
 
 /*Landing*/
 
-#myVideo {
-  display: flex;
-  min-width: fit-content;
+#nateBercoName {
+  max-width: 50%;
 }
 
 .landingHold {
   height: 30vh;
   margin-top: 12vh;
+  margin-bottom: 10vh;
 }
 
 .headerText {
@@ -67,10 +67,13 @@ a:hover {
   font-style: none;
   font-size: 20px;
   display: flex;
+  margin-bottom: 10vh;
+  padding-bottom: 50vh;
 }
 
 /* About Section */
 #about {
+  margin-top: 10vh;
   background-color: rgb(255, 253, 230);
   color: rgb(10, 71, 61);
   padding: 3%;
